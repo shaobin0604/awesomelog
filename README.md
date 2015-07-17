@@ -31,7 +31,21 @@ Each of the verbosity levels from the default Log apply here:
 
     Log.setTag("{The global Log TAG}")
 
-# License
+## Download
+
+### Gradle
+
+    compile 'io.github.shaobin0604:awesomelog:1.0.1'
+
+### Maven
+
+    <dependency>
+        <groupId>io.github.shaobin0604</groupId>
+        <artifactId>awesomelog</artifactId>
+        <version>1.0.1</version>
+    </dependency>
+
+## License
 
     Copyright 2014 Bin Shao
 
@@ -46,3 +60,4 @@ Each of the verbosity levels from the default Log apply here:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
